@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Terminus Pool</title>
+  <defs>
+    <linearGradient id="terminusGradient" x1="42" y1="42" x2="214" y2="214" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00EFFF"/>
+      <stop offset="0.52" stop-color="#00E6C7"/>
+      <stop offset="1" stop-color="#20FF63"/>
+    </linearGradient>
+  </defs>
+  <path
+    fill="url(#terminusGradient)"
+    fill-rule="evenodd"
+    d="M34 50H222L196 86H151V171L128 205L105 171V86H60L34 50ZM58 64L68 72H119V167L128 181L137 167V72H188L198 64H58Z"/>
+</svg>
